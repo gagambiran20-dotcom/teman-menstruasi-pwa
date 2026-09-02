@@ -1,0 +1,11 @@
+{
+  "name": "Teman Menstruasi Remaja",
+  "short_name": "Teman Menstruasi",
+  "description": "Aplikasi edukasi kesehatan menstruasi untuk remaja putri",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff5f8",
+  "theme_color": "#f7a8c4",
+  "orientation": "portrait"
+}
